@@ -14,5 +14,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "muskan chauhan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskanchahan/shop-Dashboard.git"
+  },
+  "keywords": [
+    "this",
+    "is",
+    "fullstack",
+    "shop",
+    "dashboard"
+  ],
+  "bugs": {
+    "url": "https://github.com/muskanchahan/shop-Dashboard/issues"
+  },
+  "homepage": "https://github.com/muskanchahan/shop-Dashboard#readme"
 }
