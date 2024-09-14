@@ -2,8 +2,6 @@
 ! Shopping Dashboard
 <br>
 This is a full-stack web application built with Express.js for managing products in a shopping dashboard. The project allows users to perform CRUD operations (Create, Read, Update, Delete) on the products.
-
-
 <br>
 Features:
 <br>
